@@ -1,6 +1,5 @@
 node_modules
-./bootcamp
 bootcamp
-serverfake.js
-./src/database/Fake_data.js
-./src/serverfake.js
+.serverfake.js
+.Fake_data.js
+.serverfake.js
